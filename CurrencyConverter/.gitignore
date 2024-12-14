@@ -1,0 +1,4 @@
+# Ignore build output directories
+target/
+src/test/java/
+config.properties
